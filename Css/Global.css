@@ -1,0 +1,103 @@
+body {
+  font-family: "Open Sans Light", sans-serif; /* for Light 300 */
+}
+
+p {
+  font-family: "Open Sans Regular", sans-serif; /* for Regular 400 */
+}
+
+em {
+  font-family: "Open Sans Italic", sans-serif; /* for Regular Italic 400 */
+}
+
+strong {
+  font-family: "Open Sans Bold", sans-serif; /* for Bold 700 */
+}
+
+.header {
+  background-color: #fff0ed;
+}
+
+.nitro-button {
+  background-color: #5bacc3;
+  color: white;
+}
+.nitro-button:hover {
+  background-color: #5bacc3;
+  color: white;
+  box-shadow: none;
+}
+.paragraph {
+  font-size: 18px;
+  font-style: italic;
+}
+.heading2 {
+  font-size: 33px;
+  font-weight: 300;
+}
+.heading1 {
+  font-size: 60px;
+  font-weight: 300;
+}
+
+.header {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  /* Adjust padding as needed */
+}
+
+.logo {
+  margin-right: 20px; /* Adjust margin as needed */
+}
+
+nav {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+ul {
+  list-style: none;
+  /* margin-right: 10px; */
+  padding: 0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+li {
+  margin-right: 20px; /* Adjust margin as needed */
+}
+
+.links {
+  text-decoration: none;
+  color: #000; /* Adjust color as needed */
+  font-weight: bold;
+}
+
+/* Add additional styles as needed */
+
+.header-menu {
+  display: flex;
+}
+.logo {
+  font-size: 60px;
+  font-weight: 300;
+}
+
+.links {
+  color: black;
+  font-size: 21px;
+  font-weight: 400;
+  margin-left: 30px;
+  margin-top: 40px;
+  text-decoration: none;
+}
+.links:hover {
+  color: #5bacc3;
+}
+
+button {
+  color: white;
+}
