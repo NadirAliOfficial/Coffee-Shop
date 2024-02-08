@@ -17,4 +17,3 @@ Open `index.html` directly in any browser.
 MIT
 <!-- updated: 2025-11-20-r01 -->
 
-
