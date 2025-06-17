@@ -15,4 +15,4 @@ Open `index.html` directly in any browser.
 
 ## License
 MIT
-<!-- updated: 2024-12-26-r01 -->
+<!-- updated: 2025-06-17-r01 -->
