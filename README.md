@@ -16,5 +16,3 @@ Open `index.html` directly in any browser.
 ## License
 MIT
 <!-- updated: 2025-11-20-r01 -->
-
-
