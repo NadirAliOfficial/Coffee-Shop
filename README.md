@@ -1,3 +1,17 @@
-# Coffee-Shop
-A project of one of my clients for Coffee Shop using HTML, CSS and JS
-<!-- updated: 2026-05-28 -->
+# Coffee Shop Website
+
+A clean, responsive website built for a coffee shop client — showcasing the menu, ambiance, and contact details.
+
+## Features
+- Responsive design across devices
+- Menu section with categories
+- Location and contact info
+
+## Tech Stack
+- HTML5, CSS3, JavaScript
+
+## Usage
+Open `index.html` directly in any browser.
+
+## License
+MIT
